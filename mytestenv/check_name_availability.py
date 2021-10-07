@@ -17,6 +17,7 @@ def key_vault (key_vault_client, RESOURCE_GROUP, key_vault_name):
     else:
         print (f"Key Vault {key_vault_name} NOT exits ")
 
+# test merge / delete
 
 # keyvault base name check
 # 23 characters or less
