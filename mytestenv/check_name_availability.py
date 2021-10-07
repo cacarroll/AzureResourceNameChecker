@@ -18,7 +18,7 @@ def key_vault (key_vault_client, RESOURCE_GROUP, key_vault_name):
         print (f"Key Vault {key_vault_name} NOT exits ")
 
 # test merge / delete
-
+# commit 2
 # keyvault base name check
 # 23 characters or less
 # no more than 1 hypen
